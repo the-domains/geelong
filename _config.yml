@@ -1,7 +1,7 @@
 name: Geelong
 favicon: null
-layout_spectrum: 0.7685176394879818
-typography_spectrum: 0.10734746931120753
+layout_spectrum: 0.50165
+typography_spectrum: 0.36809
 title: 'Geelong, Victoria, Australia'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7400847061071545
-  lightness: 0.5444216728210449
-  saturation: 0.3625805154442787
-  rhythmicContrast: 0.5641811022069305
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
